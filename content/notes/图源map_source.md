@@ -3,10 +3,6 @@
 ---
 
 虽然有很多数据集，但是在日常使用中手机 APP 需要有 Map API 才能去正确下载瓦片数据。
-
-
-
-
 [Map APIs](https://everydeveloper.com/apis/maps/) 此处列举了几种提供Map API的地方
 # 1. Arcgis
 ```c
