@@ -30,6 +30,6 @@ img/
 ## 2.3. webp
 上传前将图片转化成 .webp 格式；
 # 3. 配置文件
-```
+```c
 D:\Users\ryan\AppData\Roaming\picgo\data.json
 ```
