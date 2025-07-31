@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+测试修改。
 虽然有很多数据集，但是在日常使用中手机 APP 需要有 Map API 才能去正确下载瓦片数据。
 [Map APIs](https://everydeveloper.com/apis/maps/) 此处列举了几种提供Map API的地方
 # 1. Arcgis
@@ -11,7 +12,7 @@ https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/t
 1-19
 wgs84
 ```
-![20241008_114211](https://s2.loli.net/2025/06/06/GqdloK4yJBVsEeF.png)
+![[../notes/attachments/20241008_114211.png]]
 # 2. AnyGIS
 在线地图合集
 [AnyGIS | Online maps pack](https://anygis.ru/Web/Html/DownloadPage_en)
@@ -25,9 +26,9 @@ http://k.mv0.cc/vt/lyrs=y&hl=zh-CN&gl=cn&scale=2&x={x}&y={y}&z={z}
 ```
 # 4. Google
 ## 4.1. g
-![20241008_114235](https://s2.loli.net/2025/06/06/Rl4w2jkGIzxBScF.png)
+![[../notes/attachments/20241008_114235.png]]
 ## 4.2. ga
-![20241008_114259](https://s2.loli.net/2025/06/06/qDRbshJjtQBG6xN.png)
+![[../notes/attachments/20241008_114259.png]]
 ## 4.3. flavor 原版
 ```js
 google
@@ -153,7 +154,7 @@ servers=[01,02,03,04]
 ```
 # 8. Mapbox
 ```python
-https://a.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1Ijoic2N1dHhkIiwiYSI6ImNrcjF2c204YzFqaTEydnF1eW5lczNlb3gifQ.FJpJs3fQXg9V4ig0xpk9LQ
+https://a.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=
 256
 1-21
 GPS
